@@ -4,16 +4,23 @@
 
 ### Installation
 
-1. Install Python[https://www.python.org/downloads/] in your computer
-2. Install package
+1. Install Python on your computer
 ```
-pip install 
+https://www.python.org/downloads/
 ```
-3. Install all the required dependencies.
+2. Create a new environment
+```
+conda create -n dev python=3.10 anaconda -y
+```
+3. Activate the environment
+```
+conda activate dev
+```
+4. Install all the required dependencies.
 ```
 pip install -r requirements.txt
 ```
-4. Clone this repository to your local computer.
+5. Clone this repository to your local computer using `git clone`.
 
 ## Overview
 
