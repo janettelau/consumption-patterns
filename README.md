@@ -37,7 +37,7 @@ Our datasets were retrieved from:
   - `Obesity_unhealthy_diet.csv`: Obesity and unhealthy diet data
 - `cleaned_files`: contains the cleaned datasets used as input files in the notebooks
   - `merged_income_diet_final.csv`: A merged dataset containing data on global income and the cost and affordability of healthy diets
-  - `obesity_final.csv`: A dataset containing only obesity data for the purpose of this project
+  - `obesity_final.csv`: A dataset containing only obesity data among adults for this project
 
 ## Visualizations
 Plots and maps generated from the Jupyter notebooks:
@@ -45,7 +45,8 @@ Plots and maps generated from the Jupyter notebooks:
 - `gabriel_project_code.ipynb`: Horizontal Stacked Bar Chart
 - `felipe.ipnyb`: Pie Charts and Stacked Bar Chart
 - `Affordability_Obesity_sunil.ipynb`: Linear Regressions, Box plots, and Interactive Maps
-The figures can be found in the `Output` folder.
+
+The figures and a sample of the map can be found in the `Output` folder.
 
 ## Analysis
 How does the affordability of healthy diets vary by income group?
@@ -74,7 +75,8 @@ Is there a significant correlation between the unaffordability of healthy diets 
 
 Is there a correlation between global income levels (represented by GDP) and obesity rates?
 - The linear regression analysis yields an r² value of 0.008, indicating no significant correlation between global income levels (GDP) and obesity rates.
-- Suggests that income alone is not a strong predictor of obesity
+- Suggests that income alone is not a strong predictor of obesity.
+- An interactive map to show the prevalence of obesity around the globe was plotted. Hover over each country, represented by colored dots, to view their detailed information. The size of each dot is proportional to the percentage of the population affected by obesity.
 
 ## Conclusion
 Overall, our analysis demonstrates that income disparities significantly impact the affordability of healthy diets, with higher-income countries showing a lower percentage of populations unable to afford healthy diets and lower costs associated with these diets. However, the cost of animal-based foods remains a considerable burden for lower-income groups, particularly in low- and middle-income countries. While income is a key factor influencing dietary choices, it only has a weak correlation with obesity rates, suggesting that other factors, such as lifestyle and culture, may also influence obesity prevalence. Further research is needed to explore the broader determinants of obesity and dietary choices across income groups.
