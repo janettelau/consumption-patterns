@@ -45,7 +45,7 @@ Our datasets were retrieved from:
 Plots and maps generated from the Jupyter notebooks:
 - `income_diet_scatter.ipynb`: Scatter Plots and Linear Regressions
 - `gabriel_project_code.ipynb`: Horizontal Stacked Bar Chart
-- `felipe.ipnyb`: Pie Charts and Stacked Bar Chart
+- `felipe.ipnyb`: Pie Charts
 - `Affordability_Obesity_sunil.ipynb`: Linear Regressions, Box plots, and Interactive Maps
 
 The figures and a sample of the map can be found in the `Output` folder.
@@ -69,7 +69,6 @@ How do the costs of different dietary choices vary among high, middle, and low-i
 How does a person's income level influence the types and amounts of food they typically consume?
 - A pie chart which shows that the most expensive foods worldwide are those derived from animals, followed by fruits and vegetables.
 - Four pie charts (one per income group) that show all the income groups spend more than 50% of their food on Animal Source and Vegetables, on the other hand, oils and starchy staples decreases.
-- A stacked bar chart that illustrates the food costs by country.
 
 Is there a significant correlation between the unaffordability of healthy diets and the prevalence of obesity rates in different countries?
 - A linear regression plot which indicates no significant correlation between the unaffordability of healthy diets and the prevalence of obesity rates in different countries based on the r² value of 0.009.
