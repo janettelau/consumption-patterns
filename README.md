@@ -23,10 +23,22 @@ pip install -r requirements.txt
 5. Clone this repository to your local computer using `git clone`.
 
 ## Overview
+This project aims to explore the relationship between population GDP and the cost and affordability of healthy diets, and analyze variations across different income groups.
 
 ## Datasets
+1. Global income statistics: [https://www.kaggle.com/datasets/konradb/global-income-statistics]
+2. Cost and Affordability of A Healthy Diet: [https://www.fao.org/faostat/en/#data/CAHD]
+3. NCD Data Portal - WHO: [https://ncdportal.org/]
 
 ## Visualizations
+Plots and maps generated from the notebooks:
+- Scatter Plots
+- Linear Regression Plots
+- Stacked Bar Charts
+- Pie Charts
+- Box plots
+- Interactive Maps
+These can be found in the `Output` folder.
 
 ## Analysis
 
