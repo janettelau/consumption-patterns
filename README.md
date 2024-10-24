@@ -50,4 +50,5 @@ What is the relationship between global income levels and the cost of healthy di
 - A scatter plot shows that the spread of the cost is the greatest among upper-middle-income countries.
 - The cost of healthy diets is/takes up a relatively smaller part of people’s income in high-income countries.
 
-## 
+## Conclusion
+Overall, our analysis demonstrates that income disparities significantly impact the affordability of healthy diets, with higher-income countries showing a lower percentage of populations unable to afford healthy diets and lower costs associated with these diets. However, the cost of animal-based foods remains a considerable burden for lower-income groups, particularly in low- and middle-income countries. While income is a key factor influencing dietary choices, it only has a weak correlation with obesity rates, suggesting that other factors, such as lifestyle and culture, may also influence obesity prevalence. Further research is needed to explore the broader determinants of obesity and dietary choices across income groups.
