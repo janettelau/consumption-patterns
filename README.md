@@ -24,6 +24,7 @@ pip install -r requirements.txt
 
 ## Overview
 This project aims to explore the relationship between population GDP and the cost and affordability of healthy diets, and analyze variations across different income groups.
+Furthermore, it will investigate the correlation between these dietary choices and obesity across different regions. The ultimate goal is to provide insights for policymakers to promote healthier eating habits.
 
 ## Datasets
 1. Global income statistics: [https://www.kaggle.com/datasets/konradb/global-income-statistics]
@@ -41,5 +42,12 @@ Plots and maps generated from the notebooks:
 These can be found in the `Output` folder.
 
 ## Analysis
+How does the affordability of healthy diets vary by income group?
+- A scatter plot that shows that as the population’s GDP increases, the percentage of the population unable to afford healthy diets decreases.
+- A greater proportion of people can afford healthy diets in high-income countries.
+
+What is the relationship between global income levels and the cost of healthy diets?
+- A scatter plot shows that the spread of the cost is the greatest among upper-middle-income countries.
+- The cost of healthy diets is/takes up a relatively smaller part of people’s income in high-income countries.
 
 ## 
