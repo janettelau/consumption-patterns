@@ -26,7 +26,7 @@ Furthermore, it will investigate the correlation between these dietary choices a
 
 ## Sources
 Our datasets were retrieved from:
-1. [Global income statistics]([https://www.kaggle.com/datasets/konradb/global-income-statistics)
+1. [Global income statistics](https://www.kaggle.com/datasets/konradb/global-income-statistics)
 2. [Cost and Affordability of A Healthy Diet from FAOSTAT](https://www.fao.org/faostat/en/#data/CAHD)
 3. [NCD (Noncommunicable-diseases) Data Portal - WHO](https://ncdportal.org/)
 
