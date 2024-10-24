@@ -9,7 +9,10 @@
 ```
 pip install 
 ```
-3. Install all the required dependacies.
+3. Install all the required dependencies.
+```
+pip install -r requirements.txt
+```
 4. Clone this repository to your local computer.
 
 ## Overview
