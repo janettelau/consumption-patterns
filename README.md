@@ -39,7 +39,9 @@ Our datasets were retrieved from:
   - `merged_income_diet_final.csv`: A merged dataset containing data on global income and the cost and affordability of healthy diets
   - `obesity_final.csv`: A dataset containing only obesity data among adults for this project
 
-## Visualizations
+## Notebooks and Visualizations
+`reading_files_cleaning.ipynb`: Data exploration and cleaning
+
 Plots and maps generated from the Jupyter notebooks:
 - `income_diet_scatter.ipynb`: Scatter Plots and Linear Regressions
 - `gabriel_project_code.ipynb`: Horizontal Stacked Bar Chart
