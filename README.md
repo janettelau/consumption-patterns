@@ -26,9 +26,9 @@ Furthermore, it will investigate the correlation between these dietary choices a
 
 ## Sources
 Our datasets were retrieved from:
-1. Global income statistics: [https://www.kaggle.com/datasets/konradb/global-income-statistics]
-2. Cost and Affordability of A Healthy Diet from FAOSTAT: [https://www.fao.org/faostat/en/#data/CAHD]
-3. NCD (Noncommunicable-diseases) Data Portal - WHO: [https://ncdportal.org/]
+1. [Global income statistics]([https://www.kaggle.com/datasets/konradb/global-income-statistics)
+2. [Cost and Affordability of A Healthy Diet from FAOSTAT](https://www.fao.org/faostat/en/#data/CAHD)
+3. [NCD (Noncommunicable-diseases) Data Portal - WHO](https://ncdportal.org/)
 
 ## Folders
 - `Resources`: contains the raw data from the above sources
@@ -66,7 +66,7 @@ How do the costs of different dietary choices vary among high, middle, and low-i
 
 How does a person's income level influence the types and amounts of food they typically consume?
 - A pie chart which shows that the most expensive foods worldwide are those derived from animals, followed by fruits and vegetables.
-- Four pie charts (one per income group) that show all the income groups spend more than 50% of their food on Animal Source and Vegetables, on the other hand oils and starchy staples decreases.
+- Four pie charts (one per income group) that show all the income groups spend more than 50% of their food on Animal Source and Vegetables, on the other hand, oils and starchy staples decreases.
 - A stacked bar chart that illustrates the food costs by country.
 
 Is there a significant correlation between the unaffordability of healthy diets and the prevalence of obesity rates in different countries?
